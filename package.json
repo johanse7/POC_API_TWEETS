@@ -5,7 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "dev": "SET DEBUG=app:*&& nodemon src/index.js",
-    "start": "NODE_ENV=production node src/index.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
